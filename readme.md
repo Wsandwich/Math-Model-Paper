@@ -1,13 +1,13 @@
 
-# 数模论文集 (Math Modeling Papers)
+# 数模论文集 (Math-Model-Papers)
 
 ![Banner](banner_image.png)
 
-Welcome to the paper and code repository of the Wuhan University of Technology Math Modeling Team (YuJie Wang, YueYi Zhang, YiMing Yang). In this project, we have collected our excellent works in mathematical modeling competitions and some research papers we wrote during training. Here is the [***content***](#Math&#32;Modeling&#32;Papers).
+Welcome to the paper and code repository of the Wuhan University of Technology Math Modeling Team (YuJie Wang, YueYi Zhang, YiMing Yang). In this project, we have collected our excellent works in mathematical modeling competitions and some research papers we wrote during training. Here is the [***content***](#Math-Modeling-Papers).
 
 欢迎来到武汉理工大学数模团队（王与杰、张悦毅、杨一鸣）的论文及相关代码仓库。在这个项目中，我们汇集了我们在数学建模竞赛中的优秀作品以及我们在训练过程中撰写的一些研究论文。这里是[***内容***](#数模论文集)。
 
-# Math Modeling Papers
+# Math-Model-Papers
 
 ## Table of Contents
 
