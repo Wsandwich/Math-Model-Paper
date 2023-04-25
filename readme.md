@@ -91,7 +91,7 @@ If you have any questions or suggestions about our project, please feel free to 
 
 
 1. **古代玻璃制品的成分分类与鉴别分析 - 数模国赛二等奖获奖论文**
-   - [PDF](古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
+   - [PDF](papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
    - [代码](古代玻璃制品的成分分类与鉴别分析代码及其保存的机器学习模型)
    
 2. **基于 ARIMA-LSTM 和收益-风险规划模型的石油投资策略**
