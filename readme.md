@@ -127,7 +127,7 @@ If you have any questions or suggestions about our project, please feel free to 
 4. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
    - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
    <p align="center">
-   <img src="README_FIG/4.png" alt="4" width="600" >
+   <img src="README_FIG/41.png" alt="4" width="600" >
    </p>
 
 5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
@@ -155,7 +155,7 @@ If you have any questions or suggestions about our project, please feel free to 
 8. **基于预测解释模型和离散化董火虫算法的中风人群分析**
    - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
    <p align="center">
-   <img src="README_FIG/8.png" alt="title" width="600" >
+   <img src="README_FIG/81.png" alt="title" width="600" >
    </p>
 
 
