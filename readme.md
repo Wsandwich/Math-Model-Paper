@@ -133,13 +133,13 @@ If you have any questions or suggestions about our project, please feel free to 
 5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
    - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
    <p align="center">
-   <img src="README_FIG/5.png" alt="5" width="600" >
+   <img src="README_FIG/51.png" alt="5" width="600" >
    </p>
 
 6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    <p align="center">
-   <img src="README_FIG/6.png" alt="6" width="600" >
+   <img src="README_FIG/61.png" alt="6" width="600" >
    </p>
 
    
@@ -147,7 +147,7 @@ If you have any questions or suggestions about our project, please feel free to 
    - [PDF](Papers/基于回归分析与集成学习的图书馆人次特征分析.pdf)
    
    <p align="center">
-   <img src="README_FIG/7.png" alt="title" width="600" >
+   <img src="README_FIG/71.png" alt="title" width="600" >
    </p>
    
    
