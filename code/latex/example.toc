@@ -1,0 +1,55 @@
+\contentsline {section}{\numberline {一、}问题重述}{4}{section.1}%
+\contentsline {subsection}{\numberline {1\,.\,1}问题背景}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1\,.\,2}问题提出}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {二、}模型假设}{5}{section.2}%
+\contentsline {section}{\numberline {三、}符号说明}{5}{section.3}%
+\contentsline {section}{\numberline {四、}问题一的模型建立与求解}{5}{section.4}%
+\contentsline {subsection}{\numberline {4\,.\,1}问题一的描述与分析}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4\,.\,2}数据预处理}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4\,.\,3}模型建立}{6}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,1}基于卡方独立性检验的关系分析模型}{6}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,2}基于Mann-Whitney检验的统计规律分析模型}{7}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4\,.\,3\,.\,3}基于基准化匹配策略与偏最小二乘回归的成分含量预测模型}{8}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4\,.\,4}模型求解与结果分析}{10}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4\,.\,4\,.\,1}表面风化与类型、纹饰和颜色的关系}{10}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4\,.\,4\,.\,2}表面有无风化化学成分含量统计规律分析}{12}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4\,.\,4\,.\,3}风化前的化学成分含量预测}{15}{subsubsection.4.4.3}%
+\contentsline {subsection}{\numberline {4\,.\,5}模型检验}{17}{subsection.4.5}%
+\contentsline {section}{\numberline {五、}问题二的模型建立与求解}{18}{section.5}%
+\contentsline {subsection}{\numberline {5\,.\,1}问题二的描述与分析}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5\,.\,2}模型建立}{18}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,1}基于M-W检验与Logistic回归的分类规律分析模型}{18}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5\,.\,2\,.\,2}基于熵值法与K-Means++聚类的亚类划分模型}{19}{subsubsection.5.2.2}%
+\contentsline {subsection}{\numberline {5\,.\,3}模型求解与结果分析}{20}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,1}玻璃分类规律分析}{20}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5\,.\,3\,.\,2}玻璃的亚类划分}{22}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5\,.\,4}合理性与敏感性分析}{25}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5\,.\,4\,.\,1}基于K-W检验与数据分布的合理性分析}{25}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5\,.\,4\,.\,2}基于权重调节的敏感性分析}{26}{subsubsection.5.4.2}%
+\contentsline {section}{\numberline {六、}问题三的模型建立与求解}{27}{section.6}%
+\contentsline {subsection}{\numberline {6\,.\,1}问题三的描述与分析}{27}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6\,.\,2}数据预处理}{27}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6\,.\,3}基于XGBoost多分类的文物类型鉴别模型建立}{27}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6\,.\,4}模型求解}{28}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6\,.\,4\,.\,1}K折交叉验证}{28}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6\,.\,4\,.\,2}贝叶斯调参}{28}{subsubsection.6.4.2}%
+\contentsline {subsection}{\numberline {6\,.\,5}求解结果与分析}{29}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6\,.\,6}敏感性分析}{29}{subsection.6.6}%
+\contentsline {section}{\numberline {七、}问题四的模型建立与求解}{29}{section.7}%
+\contentsline {subsection}{\numberline {7\,.\,1}问题四的描述与分析}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7\,.\,2}数据集的选取}{30}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7\,.\,3}关联关系及差异性的宏微观分析模型建立}{30}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7\,.\,3\,.\,1}基于Kendall's W检验与配对t检验的宏观层面分析}{30}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7\,.\,3\,.\,2}基于灰色关联量化模型的微观层面分析}{31}{subsubsection.7.3.2}%
+\contentsline {subsection}{\numberline {7\,.\,4}模型求解与结果分析}{32}{subsection.7.4}%
+\contentsline {subsubsection}{\numberline {7\,.\,4\,.\,1}宏观层面分析}{32}{subsubsection.7.4.1}%
+\contentsline {subsubsection}{\numberline {7\,.\,4\,.\,2}微观层面分析}{34}{subsubsection.7.4.2}%
+\contentsline {section}{\numberline {八、}模型评价}{35}{section.8}%
+\contentsline {subsection}{\numberline {8\,.\,1}模型总结}{35}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8\,.\,2}模型优缺点分析}{35}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8\,.\,3}模型改进与展望}{35}{subsection.8.3}%
+\contentsline {section}{参考文献}{36}{section*.45}%
+\contentsline {section}{附录 \numberline {A}支撑材料清单}{37}{appendix.a.A}%
+\contentsline {section}{附录 \numberline {B}图表}{38}{appendix.a.B}%
+\contentsline {section}{附录 \numberline {C}Python源程序}{40}{appendix.a.C}%
+\contentsline {section}{附录 \numberline {D}Matlab源程序}{41}{appendix.a.D}%
