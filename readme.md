@@ -45,7 +45,7 @@ In this project, you can find:
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    
 6. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
-   - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
+   - [PDF](Papers/基于预测解释模型和离散化萤火虫算法的中风人群分析.pdf)
 
 ### ***The code for each paper is included in the appendix for reference***
 
