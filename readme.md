@@ -30,7 +30,7 @@ In this project, you can find:
 
 1. **Classification and Identification Analysis of Ancient Glass Composition - National Mathematical Modeling Competition Second Prize Winning Paper**
    - [PDF](Papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
-   - [代码](code)
+   - [CODE](code)
    
 2. **Oil Investment Strategy Based on ARIMA-LSTM and Return-Risk Planning Model**
    - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
@@ -49,13 +49,14 @@ In this project, you can find:
 
 ### ***The code for each paper is included in the appendix for reference***
 
+
 ## Team Experience
 
 Our mathematical modeling team has participated in various mathematical modeling competitions and activities at Wuhan University of Technology. Here are our main experiences:
 
 - Won first place in the 2022 Wuhan University of Technology "Freshman Cup" Mathematical Modeling Competition;
 - Participated in the 2022 "Hua Zhong Cup" College Student Mathematical Modeling Challenge and won a second prize;
-- During the Mathematical Modeling Summer Camp, we participated in 6 training competitions and were among the top three in all competitions. 
+- During the Mathematical Modeling Summer Camp, we participated in 7 training competitions and were among the top three in all competitions. 
 - Our team performed well in the 2022 National College Student Mathematical Modeling Competition, winning a national second prize.
 
 ## Contact Us
@@ -97,19 +98,33 @@ If you have any questions or suggestions about our project, please feel free to 
 2. **基于 ARIMA-LSTM 和收益-风险规划模型的石油投资策略**
    - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
    
-3. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
+3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题.pdf**
+   - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
+   
+4. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
    - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
    
-4. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
+5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
    - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
    
-5. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
+6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    
-6. **基于预测解释模型和离散化董火虫算法的中风人群分析**
+7. **基于预测解释模型和离散化董火虫算法的中风人群分析**
    - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
 
-### ***每一篇论文的附录都附上了相应的代码可供参考***
+### **每一篇论文包含以下几个内容**
+
+- 摘要
+- 问题重述
+- 模型假设
+- 符号说明
+- 模型的建立与求解
+- 模型评价
+- 参考文献
+- 附录（包括关键数据和代码）
+
+
 
 ## 团队经历
 
@@ -117,8 +132,8 @@ If you have any questions or suggestions about our project, please feel free to 
 
 - 在2022年武汉理工大学“新生杯”数学建模比赛中，荣获第一名；
 - 参加2022年“华中杯”大学生数学建模挑战赛，获得二等奖；
-- 在数模夏立营期间，我们共参与了6次训练赛，并在所有比赛中入围前三名。
-- 团队在2022年全国大学生数学建模竞赛中表现出色，荣获国家二等奖。
+- 在数模夏立营期间，我们共参与了7次训练赛，并在所有比赛中入围前三名。
+- 团队在2022年全国大学生数学建模竞赛中表现出色，获得国家二等奖。
 
 
 ## 联系我们
