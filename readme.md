@@ -5,7 +5,7 @@
   <img src="README_FIG/title.png" alt="title" width="150" >
 </p>
 
-Welcome to the paper and code repository of the Wuhan University of Technology Math Modeling Team (YuJie Wang, YueYi Zhang, YiMing Yang). In this project, we have collected our excellent works in mathematical modeling competitions and some research papers we wrote during training. Here is the [***content***](#Math-Modeling-Papers).
+Welcome to the paper and code repository of the Wuhan University of Technology Math Modeling Team (YuJie Wang, YueYi Zhang, YiMing Yang). In this project, we have collected our excellent works in mathematical modeling competitions and some research papers we wrote during training. Here is the [***content***](#Math-Model-Papers).
 
 欢迎来到武汉理工大学数模团队（王与杰、张悦毅、杨一鸣）的论文及相关代码仓库。在这个项目中，我们汇集了我们在数学建模竞赛中的优秀作品以及我们在训练过程中撰写的一些研究论文。这里是[***内容***](#数模论文集)。
 
@@ -111,37 +111,49 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/1.png" alt="1" width="600" >
    </p>
+*关键字：基准化匹配策略 偏最小二乘回归 K-Means++ XGBoost 灰色关联量化*
+
 
 2. **基于 ARIMA-LSTM 和收益-风险规划模型的石油投资策略**
    - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
    <p align="left">
    <img src="README_FIG/2.png" alt="2" width="600" >
    </p>
+*关键字： ARIMA-LSTM 马尔科夫链 风险因子 灰色关联度评价模型*
+
 
 3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题**
    - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
    <p align="left">
    <img src="README_FIG/3.png" alt="3" width="600" >
    </p>
+*关键字： 小波降噪 XGBoost GRNN 帝国竞争算法 宏微观分析*
+
 
 4. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
    - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
    <p align="left">
    <img src="README_FIG/41.png" alt="4" width="600" >
    </p>
+*关键字： 方差分析 灰色关联量化模型 AGRNN 偏最小二乘回归 理想点法*
+
 
 5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
    - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
    <p align="left">
    <img src="README_FIG/51.png" alt="5" width="600" >
    </p>
+*关键词: Lasso 模型 Leslie 模型 灰色关联度评价模型 双目标规划模型 帝国竞争算法*
+
 
 6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    <p align="left">
    <img src="README_FIG/61.png" alt="6" width="600" >
    </p>
+*关键字： 主成分分析 集成学习 LCE 算法 收益-风险规划模型*
 
+   
    
 7. **基于回归分析与集成学习的图书馆人次特征分析**
    - [PDF](Papers/基于回归分析与集成学习的图书馆人次特征分析.pdf)
@@ -149,6 +161,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/71.png" alt="title" width="600" >
    </p>
+*关键字： 快速傅里叶变换 滚动回归 集成学习 灰色关联度量化模型 LCE*
    
    
    
@@ -157,6 +170,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/81.png" alt="title" width="600" >
    </p>
+*关键字： XGBoost TreeSHAP 事后解释器 双目标背包规划 改进的离散化萤火虫算法 RFECV*
 
 
 
