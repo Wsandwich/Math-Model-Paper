@@ -93,50 +93,7 @@ If you have any questions or suggestions about our project, please feel free to 
 ## 论文列表
 
 
-1. **古代玻璃制品的成分分类与鉴别分析 - 数模国赛二等奖获奖论文**
-   - [PDF](Papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
-   - [代码](古代玻璃制品的成分分类与鉴别分析代码及其保存的机器学习模型)
-   ![1](README_FIG/1.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-2. **基于 ARIMA-LSTM 和收益-风险规划模型的石油投资策略**
-   - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
-   ![2](README_FIG/2.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题.pdf**
-   - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
-   ![3](README_FIG/3.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-4. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
-   - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
-   ![4](README_FIG/4.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
-   - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
-   ![5](README_FIG/5.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
-   - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
-   ![6](README_FIG/6.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-7. **基于预测解释模型和离散化董火虫算法的中风人群分析**
-   - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
-   ![7](README_FIG/7.png)
-   <p align="left">
-   <img src="README_FIG/title.png" alt="title" width="150" >
-   </p>
-### **每一篇论文包含以下几个内容**
+### **注意：每一篇论文包含以下几个内容**
 
 - 摘要
 - 问题重述
@@ -145,7 +102,61 @@ If you have any questions or suggestions about our project, please feel free to 
 - 模型的建立与求解
 - 模型评价
 - 参考文献
-- 附录（包括关键数据和代码）
+- 包括关键数据和代码的附录
+
+
+1. **古代玻璃制品的成分分类与鉴别分析 - 数模国赛二等奖获奖论文**
+   - [PDF](Papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
+   - [代码](古代玻璃制品的成分分类与鉴别分析代码及其保存的机器学习模型)
+   <p align="center">
+   <img src="README_FIG/1.png" alt="1" width="600" >
+   </p>
+
+2. **基于 ARIMA-LSTM 和收益-风险规划模型的石油投资策略**
+   - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
+   <p align="center">
+   <img src="README_FIG/2.png" alt="2" width="600" >
+   </p>
+
+3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题**
+   - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
+   <p align="center">
+   <img src="README_FIG/3.png" alt="3" width="600" >
+   </p>
+
+4. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
+   - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
+   <p align="center">
+   <img src="README_FIG/4.png" alt="4" width="600" >
+   </p>
+
+5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
+   - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
+   <p align="center">
+   <img src="README_FIG/5.png" alt="5" width="600" >
+   </p>
+
+6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
+   - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
+   <p align="center">
+   <img src="README_FIG/6.png" alt="6" width="600" >
+   </p>
+
+   
+7. **基于回归分析与集成学习的图书馆人次特征分析**
+   - [PDF](Papers/基于回归分析与集成学习的图书馆人次特征分析.pdf)
+   
+   <p align="center">
+   <img src="README_FIG/7.png" alt="title" width="600" >
+   </p>
+   
+   
+   
+8. **基于预测解释模型和离散化董火虫算法的中风人群分析**
+   - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
+   <p align="center">
+   <img src="README_FIG/8.png" alt="title" width="600" >
+   </p>
 
 
 
