@@ -29,23 +29,23 @@ In this project, you can find:
 ## Paper List
 
 1. **Classification and Identification Analysis of Ancient Glass Composition - National Mathematical Modeling Competition Second Prize Winning Paper**
-   - [PDF](古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
-   - [代码](古代玻璃制品的成分分类与鉴别分析代码及其保存的机器学习模型)
+   - [PDF](Papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
+   - [代码](code)
    
 2. **Oil Investment Strategy Based on ARIMA-LSTM and Return-Risk Planning Model**
-   - [PDF](基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
+   - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
    
 3. **Meltblown Material Performance Problem Based on Generalized Regression Neural Network and Imperialist Competitive Algorithm**
-   - [PDF](基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
+   - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
    
 4. **Elderly Service Bed Operation Strategy Based on Gray Evaluation and Imperialist Competitive Algorithm**
-   - [PDF](基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
+   - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
    
 5. **Electric Vehicle Marketing Strategy Based on Gray Evaluation Model and Ensemble Learning Algorithm**
-   - [PDF](基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
+   - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    
 6. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
-   - [PDF](基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
+   - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
 
 ### ***The code for each paper is included in the appendix for reference***
 
