@@ -30,24 +30,57 @@ In this project, you can find:
 
 ## Paper List
 
+
+### ** Note: Each paper contains the following content **
+- Abstract
+
+- Question recap
+
+- Model hypothesis
+
+- Symbol Description
+
+- Model establishment and solution
+
+- Model evaluation
+
+- References
+
+- Appendix with key data and code
+
+
 1. **Classification and Identification Analysis of Ancient Glass Composition - National Mathematical Modeling Competition Second Prize Winning Paper**
    - [PDF](Papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
    - [CODE](code)
    
 2. **Oil Investment Strategy Based on ARIMA-LSTM and Return-Risk Planning Model**
    - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
-   
-3. **Meltblown Material Performance Problem Based on Generalized Regression Neural Network and Imperialist Competitive Algorithm**
+
+3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题**
+   - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
+   <p align="left">
+   <img src="README_FIG/3.png" alt="3" width="600" >
+   </p>
+*关键字： 小波降噪，  XGBoost，  GRNN，  帝国竞争算法，  宏微观分析*
+
+4. **Meltblown Material Performance Problem Based on Generalized Regression Neural Network and Imperialist Competitive Algorithm**
    - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
    
-4. **Elderly Service Bed Operation Strategy Based on Gray Evaluation and Imperialist Competitive Algorithm**
+5. **Elderly Service Bed Operation Strategy Based on Gray Evaluation and Imperialist Competitive Algorithm**
    - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
    
-5. **Electric Vehicle Marketing Strategy Based on Gray Evaluation Model and Ensemble Learning Algorithm**
+6. **Electric Vehicle Marketing Strategy Based on Gray Evaluation Model and Ensemble Learning Algorithm**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    
-6. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
+7. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
    - [PDF](Papers/基于预测解释模型和离散化萤火虫算法的中风人群分析.pdf)
+
+8. **基于预测解释模型和离散化董火虫算法的中风人群分析**
+   - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
+   <p align="left">
+   <img src="README_FIG/81.png" alt="title" width="600" >
+   </p>
+*关键字： XGBoost，  TreeSHAP事后解释器，  双目标背包规划， 改进的离散化萤火虫算法，  RFECV*
 
 ### ***The code for each paper is included in the appendix for reference***
 
