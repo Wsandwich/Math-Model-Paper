@@ -52,37 +52,38 @@ In this project, you can find:
 1. **Classification and Identification Analysis of Ancient Glass Composition - National Mathematical Modeling Competition Second Prize Winning Paper**
    - [PDF](Papers/古代玻璃制品的成分分类与鉴别分析_数模国赛二等奖获奖论文.pdf)
    - [CODE](code)
-   
+   - *Keywords: benchmarking matching strategy, partial least squares regression, k-means ++, XGBoost, gray correlation quantization*
+
 2. **Oil Investment Strategy Based on ARIMA-LSTM and Return-Risk Planning Model**
    - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
+   - *Keywords: Armi-LSTM, Markov chain, risk factor, grey relational evaluation model *
 
-3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题**
+3. **Ore Processing Quality Problem Based on XGBoost Prediction Model and Empire Competition Algorithm **
    - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
    <p align="left">
    <img src="README_FIG/3.png" alt="3" width="600" >
    </p>
-*关键字： 小波降噪，  XGBoost，  GRNN，  帝国竞争算法，  宏微观分析*
+   - *Keywords: wavelet denoising, XGBoost, GRNN, Empire competition algorithm, macro and micro analysis*
 
 4. **Meltblown Material Performance Problem Based on Generalized Regression Neural Network and Imperialist Competitive Algorithm**
    - [PDF](Papers/基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题.pdf)
-   
+   - *Keywords: Analysis of variance, gray correlation quantization model, AGRNN, partial least squares regression, ideal point method*
+
 5. **Elderly Service Bed Operation Strategy Based on Gray Evaluation and Imperialist Competitive Algorithm**
    - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
-   
+   - *Keywords: Lasso model, Leslie model, grey relational evaluation model, double objective programming model, Empire competition algorithm*   
 6. **Electric Vehicle Marketing Strategy Based on Gray Evaluation Model and Ensemble Learning Algorithm**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
-   
-7. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
+   - *Keywords: Principal component analysis, ensemble learning, LCE algorithm, benefit-risk programming model*
+7. ** Analysis of Characteristics of Library Visits Based on Regression Analysis and Integrated Learning **
+   - [PDF](Papers/基于回归分析与集成学习的图书馆人次特征分析.pdf)
+   - *Keywords: Fast Fourier transform, rolling regression, ensemble learning, gray relational quantization model, LCE*   
+8. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
    - [PDF](Papers/基于预测解释模型和离散化萤火虫算法的中风人群分析.pdf)
 
-8. **基于预测解释模型和离散化董火虫算法的中风人群分析**
-   - [PDF](Papers/基于预测解释模型和离散化董火虫算法的中风人群分析.pdf)
-   <p align="left">
-   <img src="README_FIG/81.png" alt="title" width="600" >
-   </p>
-*关键字： XGBoost，  TreeSHAP事后解释器，  双目标背包规划， 改进的离散化萤火虫算法，  RFECV*
+   - *Keywords: XGBoost, TreeSHAP post interpreter, dual objective backpack programming, improved discrete firefly algorithm, RFECV*
 
-### ***The code for each paper is included in the appendix for reference***
+
 
 
 ## Team Experience
@@ -152,7 +153,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/2.png" alt="2" width="600" >
    </p>
-*关键字： ARIMA-LSTM，  马尔科夫链，  风险因子， 灰色关联度评价模型*
+   - *关键字： ARIMA-LSTM，  马尔科夫链，  风险因子， 灰色关联度评价模型*
 
 
 3. **基于 XGBoost 预测模型和帝国竞争算法的矿石加工质量问题**
@@ -160,7 +161,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/3.png" alt="3" width="600" >
    </p>
-*关键字： 小波降噪，  XGBoost，  GRNN，  帝国竞争算法，  宏微观分析*
+   - *关键字： 小波降噪，  XGBoost，  GRNN，  帝国竞争算法，  宏微观分析*
 
 
 4. **基于广义回归神经网络与帝国竞争算法的熔喷材料性能问题**
@@ -168,7 +169,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/41.png" alt="4" width="600" >
    </p>
-*关键字： 方差分析，  灰色关联量化模型，  AGRNN，  偏最小二乘回归，  理想点法*
+   - *关键字： 方差分析，  灰色关联量化模型，  AGRNN，  偏最小二乘回归，  理想点法*
 
 
 5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
@@ -176,7 +177,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/51.png" alt="5" width="600" >
    </p>
-*关键词: Lasso模型，  Leslie模型，  灰色关联度评价模型，  双目标规划模型，  帝国竞争算法*
+   - *关键词: Lasso模型，  Leslie模型，  灰色关联度评价模型，  双目标规划模型，  帝国竞争算法*
 
 
 6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
@@ -184,7 +185,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/61.png" alt="6" width="600" >
    </p>
-*关键字： 主成分分析，  集成学习，  LCE算法，  收益-风险规划模型*
+   - *关键字： 主成分分析，  集成学习，  LCE算法，  收益-风险规划模型*
 
    
    
@@ -194,7 +195,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/71.png" alt="title" width="600" >
    </p>
-*关键字： 快速傅里叶变换，  滚动回归，  集成学习，  灰色关联度量化模型，  LCE*
+   - *关键字： 快速傅里叶变换，  滚动回归，  集成学习，  灰色关联度量化模型，  LCE*
    
    
    
@@ -203,7 +204,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/81.png" alt="title" width="600" >
    </p>
-*关键字： XGBoost，  TreeSHAP事后解释器，  双目标背包规划， 改进的离散化萤火虫算法，  RFECV*
+   - *关键字： XGBoost，  TreeSHAP事后解释器，  双目标背包规划， 改进的离散化萤火虫算法，  RFECV*
 
 
 
