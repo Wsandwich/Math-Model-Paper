@@ -56,13 +56,10 @@ In this project, you can find:
 
 2. **Oil Investment Strategy Based on ARIMA-LSTM and Return-Risk Planning Model**
    - [PDF](Papers/基于&#32;ARIMA-LSTM&#32;和收益-风险规划模型的石油投资策略.pdf)
-   - *Keywords: Armi-LSTM, Markov chain, risk factor, grey relational evaluation model *
+   - *Keywords: Armi-LSTM, Markov chain, risk factor, grey relational evaluation model*
 
-3. **Ore Processing Quality Problem Based on XGBoost Prediction Model and Empire Competition Algorithm **
+3. **Ore Processing Quality Problem Based on XGBoost Prediction Model and Empire Competition Algorithm**
    - [PDF](Papers/基于&#32;XGBoost&#32;预测模型和帝国竞争算法的矿石加工质量问题.pdf)
-   <p align="left">
-   <img src="README_FIG/3.png" alt="3" width="600" >
-   </p>
    - *Keywords: wavelet denoising, XGBoost, GRNN, Empire competition algorithm, macro and micro analysis*
 
 4. **Meltblown Material Performance Problem Based on Generalized Regression Neural Network and Imperialist Competitive Algorithm**
@@ -74,10 +71,13 @@ In this project, you can find:
    - *Keywords: Lasso model, Leslie model, grey relational evaluation model, double objective programming model, Empire competition algorithm*   
 6. **Electric Vehicle Marketing Strategy Based on Gray Evaluation Model and Ensemble Learning Algorithm**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
+   
    - *Keywords: Principal component analysis, ensemble learning, LCE algorithm, benefit-risk programming model*
-7. ** Analysis of Characteristics of Library Visits Based on Regression Analysis and Integrated Learning **
+   
+7. **Analysis of Characteristics of Library Visits Based on Regression Analysis and Integrated Learning**
    - [PDF](Papers/基于回归分析与集成学习的图书馆人次特征分析.pdf)
-   - *Keywords: Fast Fourier transform, rolling regression, ensemble learning, gray relational quantization model, LCE*   
+   - *Keywords: Fast Fourier transform, rolling regression, ensemble learning, gray relational quantization model, LCE*
+   
 8. **Stroke Population Analysis Based on Predictive Explanation Model and Discretized Firefly Algorithm**
    - [PDF](Papers/基于预测解释模型和离散化萤火虫算法的中风人群分析.pdf)
 
@@ -145,7 +145,8 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/1.png" alt="1" width="600" >
    </p>
-*关键字：基准化匹配策略，  偏最小二乘回归， K-Means++，  XGBoost，  灰色关联量化*
+   
+   - *关键字：基准化匹配策略，  偏最小二乘回归， K-Means++，  XGBoost，  灰色关联量化*
 
 
 2. **基于 ARIMA-LSTM 和收益-风险规划模型的石油投资策略**
@@ -153,6 +154,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/2.png" alt="2" width="600" >
    </p>
+   
    - *关键字： ARIMA-LSTM，  马尔科夫链，  风险因子， 灰色关联度评价模型*
 
 
@@ -161,6 +163,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/3.png" alt="3" width="600" >
    </p>
+   
    - *关键字： 小波降噪，  XGBoost，  GRNN，  帝国竞争算法，  宏微观分析*
 
 
@@ -169,7 +172,8 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/41.png" alt="4" width="600" >
    </p>
-   - *关键字： 方差分析，  灰色关联量化模型，  AGRNN，  偏最小二乘回归，  理想点法*
+   
+   -*关键字： 方差分析，  灰色关联量化模型，  AGRNN，  偏最小二乘回归，  理想点法*
 
 
 5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
@@ -177,6 +181,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/51.png" alt="5" width="600" >
    </p>
+   
    - *关键词: Lasso模型，  Leslie模型，  灰色关联度评价模型，  双目标规划模型，  帝国竞争算法*
 
 
@@ -185,6 +190,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/61.png" alt="6" width="600" >
    </p>
+   
    - *关键字： 主成分分析，  集成学习，  LCE算法，  收益-风险规划模型*
 
    
@@ -195,6 +201,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/71.png" alt="title" width="600" >
    </p>
+   
    - *关键字： 快速傅里叶变换，  滚动回归，  集成学习，  灰色关联度量化模型，  LCE*
    
    
@@ -204,6 +211,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <p align="left">
    <img src="README_FIG/81.png" alt="title" width="600" >
    </p>
+   
    - *关键字： XGBoost，  TreeSHAP事后解释器，  双目标背包规划， 改进的离散化萤火虫算法，  RFECV*
 
 
