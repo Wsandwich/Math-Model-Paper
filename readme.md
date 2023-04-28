@@ -31,7 +31,7 @@ In this project, you can find:
 ## Paper List
 
 
-### ** Note: Each paper contains the following content **
+### **Note: Each paper contains the following content**
 - Abstract
 
 - Question recap
@@ -68,7 +68,9 @@ In this project, you can find:
 
 5. **Elderly Service Bed Operation Strategy Based on Gray Evaluation and Imperialist Competitive Algorithm**
    - [PDF](Papers/基于灰色评价和帝国竞争算法的养老服务床位运营策略.pdf)
+   
    - *Keywords: Lasso model, Leslie model, grey relational evaluation model, double objective programming model, Empire competition algorithm*   
+   
 6. **Electric Vehicle Marketing Strategy Based on Gray Evaluation Model and Ensemble Learning Algorithm**
    - [PDF](Papers/基于灰色评价模型和集成学习算法的电动汽车营销策略.pdf)
    
@@ -173,7 +175,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <img src="README_FIG/41.png" alt="4" width="600" >
    </p>
    
-   -*关键字： 方差分析，  灰色关联量化模型，  AGRNN，  偏最小二乘回归，  理想点法*
+   - *关键字： 方差分析，  灰色关联量化模型，  AGRNN，  偏最小二乘回归，  理想点法*
 
 
 5. **基于灰色评价和帝国竞争算法的养老服务床位运营策略**
@@ -182,7 +184,7 @@ If you have any questions or suggestions about our project, please feel free to 
    <img src="README_FIG/51.png" alt="5" width="600" >
    </p>
    
-   - *关键词: Lasso模型，  Leslie模型，  灰色关联度评价模型，  双目标规划模型，  帝国竞争算法*
+   - *关键字: Lasso模型，  Leslie模型，  灰色关联度评价模型，  双目标规划模型，  帝国竞争算法*
 
 
 6. **基于灰色评价模型和集成学习算法的电动汽车营销策略**
